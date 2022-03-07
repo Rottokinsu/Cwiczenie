@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.30f1 (1fb1bf06830e) revision 2077119'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Core' Language: 'pl' Physical Memory: 8191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker32
+-projectPath
+J:/uczelnia/gry programowanie/ćwwiiczenie 1
+-logFile
+Logs/AssetImportWorker32.log
+-srvPort
+58113
+Successfully changed project path to: J:/uczelnia/gry programowanie/ćwwiiczenie 1
+J:/uczelnia/gry programowanie/ćwwiiczenie 1
+Using Asset Import Pipeline V2.
