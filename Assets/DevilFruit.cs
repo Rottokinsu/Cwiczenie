@@ -23,6 +23,7 @@ public class DevilFruit : MonoBehaviour
         {
             other.GetComponent<Renderer>().material.color = renderer.material.color;
             Destroy(gameObject);
+            other.GetComponent<Player>().points += 1;
         }
     }
 }
