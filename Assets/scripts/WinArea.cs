@@ -29,7 +29,9 @@ public class WinArea : MonoBehaviour
             SceneManager.LoadScene(newLvL);
         }
 
-    } 
-    
-    public void LoadNewLevel;
+    }
+
+    public void LoadNewLevel()
+    { 
+    }
 }

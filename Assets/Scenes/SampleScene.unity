@@ -546,7 +546,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 502141270}
   movement: {x: 0, y: 0, z: 0}
-  speed: 1.5
+  speed: 3
   points: 0
 --- !u!23 &502141272
 MeshRenderer:
@@ -2180,7 +2180,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1551859316}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 29a1506ae0d884d4c9b882b87fbe2860, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f25139cd27b3e44c9773fcc6ee9544e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   renderer: {fileID: 1551859319}
