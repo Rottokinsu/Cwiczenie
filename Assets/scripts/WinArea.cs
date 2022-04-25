@@ -6,12 +6,12 @@ using UnityEngine.SceneManagement;
 public class WinArea : MonoBehaviour
 {
     public string newLvL;
+    public RectTransform winPanel;
 
-   
     // Start is called before the first frame update
     void Start()
     {
-
+        wincanv.GameObject.SetActive(false);
     }
 
     // Update is called once per frame
@@ -26,12 +26,13 @@ public class WinArea : MonoBehaviour
         
         if (other.CompareTag("Player"))
         {
-            SceneManager.LoadScene(newLvL);
+           wincanv.GameObject.SetActive(true);
         }
 
     }
-
     public void LoadNewLevel()
-    { 
+    {
+        SceneManager.LoadScene(newLvL);
     }
+
 }

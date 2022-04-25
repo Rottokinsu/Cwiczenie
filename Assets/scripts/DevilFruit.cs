@@ -6,6 +6,7 @@ using DG.Tweening;
 public class DevilFruit : MonoBehaviour
 {
     public Renderer renderer;
+    public ParticleSystem awubie;
 
     private bool collected = false;
     // Start is called before the first frame update
@@ -34,6 +35,7 @@ public class DevilFruit : MonoBehaviour
                  });
 
             other.GetComponent<Player>().points += 1;
+            awubie.Pause();
         }
     }
 }

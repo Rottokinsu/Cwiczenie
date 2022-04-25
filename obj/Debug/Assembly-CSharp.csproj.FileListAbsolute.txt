@@ -293,3 +293,17 @@ C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\obj\Debug\Assembly-CSharp.
 C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\obj\Debug\Assembly-CSharp.dll
 C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\obj\Debug\Assembly-CSharp.pdb
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\DOTween.dll
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.2D.Sprite.Editor.dll
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.2D.Tilemap.Editor.dll
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.Postprocessing.Editor.dll
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.ProGrids.dll
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.ProGrids.Editor.dll
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\DOTween.xml
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.ProGrids.Editor.pdb
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.ProGrids.pdb
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.2D.Tilemap.Editor.pdb
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.2D.Sprite.Editor.pdb
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.Postprocessing.Editor.pdb
+C:\Users\admin\Downloads\cwwiiczenie_1\ćwwiiczenie 1\Temp\Bin\Debug\Unity.Postprocessing.Runtime.pdb

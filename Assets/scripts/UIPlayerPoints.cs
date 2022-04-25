@@ -19,5 +19,6 @@ public class UIPlayerPoints : MonoBehaviour
     void Update()
     {
         pointText.text = "Punktacja: " + target.points;
+
     }
 }
