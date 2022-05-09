@@ -1,12 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening;
 
 public class Player : MonoBehaviour
 {
     public CharacterController controller;
 
     public Vector3 movement;
+    public Vector3 to;
+    public float duration;
+    public RotateMode mode;
     public float speed = 2.0f;
     public int points = 0;
 

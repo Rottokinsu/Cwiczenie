@@ -35,7 +35,7 @@ public class DevilFruit : MonoBehaviour
                  });
 
             other.GetComponent<Player>().points += 1;
-            awubie.Pause();
+            awubie.Stop();
         }
     }
 }

@@ -11,7 +11,7 @@ public class WinArea : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        wincanv.GameObject.SetActive(false);
+        winPanel.gameObject.SetActive(false);
     }
 
     // Update is called once per frame
@@ -26,7 +26,7 @@ public class WinArea : MonoBehaviour
         
         if (other.CompareTag("Player"))
         {
-           wincanv.GameObject.SetActive(true);
+           winPanel.gameObject.SetActive(true);
         }
 
     }
